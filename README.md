@@ -7,7 +7,7 @@ This repository contains all the projects developed for practice and skill enhan
 ## 1. Resume Analyzer (Python)
 Analyzes resumes to extract key information and evaluate candidate profiles.
 
-link-> [Resume_Annalyzer](https://github.com/Aswath-23/Resume_Analyzer) 
+link-> [Resume_Analyzer](https://github.com/Aswath-23/Resume_Analyzer) 
 
 ## 2. Online Quiz Application (Java)
 A Java-based quiz system that allows users to attempt quizzes and view scores.
