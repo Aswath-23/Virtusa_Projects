@@ -1,4 +1,4 @@
-# Projects (Practice Assignments)
+# Assignment Projects
 
 This repository contains all the projects developed for practice and skill enhancement.
 
